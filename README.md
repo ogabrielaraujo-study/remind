@@ -23,6 +23,8 @@ npm (https://www.npmjs.com)
 - Instale as dependências:
 ```npm install```
 
+- Renomei o arquivo ```src/config.example.js``` para ```src/config.js``` e adicione as credenciais do Firebase
+
 - Abre o simulador
 ```expo start```
 
