@@ -1,0 +1,10 @@
+node_modules/**/*
+src/config.js
+.expo/*
+npm-debug.*
+*.jks
+*.p12
+*.key
+*.mobileprovision
+.expo-shared/*
+.idea
