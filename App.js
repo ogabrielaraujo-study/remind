@@ -9,7 +9,6 @@ import List from './database/List';
 import AddItem from './database/AddItem';
 import Config from './components/Config';
 import Agenda from './components/Agenda2';
-import Push from './components/Push';
 
 const Tabs = createBottomTabNavigator(
     {
